@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .Rproj.user
+
+# Ignoring datafiles
+./data/
+data/
+./data
